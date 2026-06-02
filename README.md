@@ -1,2 +1,3 @@
-hey 
-its marco
+echo "hey" 
+echo "its marco"
+echo "sahill"
